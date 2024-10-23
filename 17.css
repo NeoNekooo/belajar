@@ -1,0 +1,214 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+table{
+    width: 860px;
+    margin: 0px auto;
+}
+
+
+/* header  */
+
+.header{
+    background-color: rgb(69, 5, 181);
+    height: 50px;
+    text-align: center;
+}
+.header a{
+    /* background-color: aquamarine; */
+    color:rgb(224, 224, 224);
+    text-decoration: none;
+    /* margin-right:20px; */
+    padding:15px;
+}
+
+.header a:hover{
+    /* padding:15px; */
+    color:rgb(239, 239, 24);
+    background-color: rgb(127, 54, 211);
+}
+
+/* end-header  */
+
+/* Slide */
+
+.slide{
+    height: 270px;
+    /* background-color: rgb(238, 227, 213); */
+    /* background-image: url(img/slide.jpg); */
+}
+
+/* end-slide  */
+
+/* td1  */
+.td1{
+    padding:20px 20px 20px 0px;
+    width: 70%;
+}
+
+.td1 table{
+    width:100%;
+}
+
+.td1 ul, li{
+    list-style-type: none;
+    margin-left: -20px;
+    margin-top: 20px;
+}
+
+.td1 a{
+    text-decoration: none;
+    color:rgb(148, 46, 46)
+}
+
+.td1 a:hover{
+    color:rgb(117, 13, 214);
+    border-bottom: 1px dashed rgb(117, 13, 214);
+}
+
+.td1 h2{
+    border-bottom:2px solid rgb(199, 199, 199);
+    padding-bottom: 5px;
+}
+
+.td1 img{
+    width: 70px;
+    height: 70px;
+}
+.fa-calendar-check{
+    color:rgb(148, 46, 46);
+    font-size: 35px;
+}
+
+/* end-td1  */
+
+/* box-title  */
+
+.title{
+    vertical-align: top;
+    /* padding:15px; */
+    background-color: rgb(239, 240, 240);
+}
+
+.title {
+    font-size: 19px;
+    font-weight: bold;
+    border:1px solid brown;
+    border-top-left-radius: 18px;
+    padding:12px;
+    background-color:brown ;
+    color: rgb(241, 240, 240);
+}
+
+.box-title {
+    border: 1px solid brown;
+    margin-top: -20px;
+    border-top: none;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.box-title a{
+    text-align: justify;
+    text-decoration: none;
+    color:rgb(41, 6, 108);
+}
+.box-title a:hover{
+    color:rgb(245, 161, 6);
+}
+
+/* end-box-title  */
+
+/* info  */
+
+.info {
+    background-color: rgb(60, 58, 58);
+    color: aliceblue;
+    vertical-align: top;
+    padding: 20px;
+    vertical-align: top;
+}
+
+.info a {
+    text-decoration: none;
+    /* background-color: aqua;  */
+    color: rgb(231, 231, 231);
+    font-size: 20px;
+}
+
+.info a:hover {
+    color: rgb(248, 64, 64);
+}
+
+.info h3 {
+    padding-left: 20px;
+    color: rgb(183, 179, 179);
+    border-bottom: 1px solid rgb(255, 255, 255);
+    width: 50%;
+    padding-bottom: 10px;
+}
+
+.info ul,li {
+    /* background-color: #00eeff; */
+    margin-left: -20px;
+}
+
+/* end-info  */
+
+/* medsos */
+
+.medsos {
+    padding-left: 20px;
+}
+
+/* end-medsos */
+
+/* icon */
+
+.fa-facebook{
+    font-size: 30px ;
+    color: #0000ff;
+}
+.fa-instagram{
+    font-size: 30px;
+    color: rgb(241, 40, 141);
+
+}
+.fa-tiktok{
+    font-size: 30px;
+    color: #ffffff 
+}
+.fa-twitter{
+    font-size: 30px;
+    color: #00eeff 
+}
+.fa-telegram{
+    font-size: 30px;
+    color: #0059ff 
+}
+
+/* end-icon */
+
+/* peta */
+
+.peta {
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+/* end-peta  */
+
+/* footer */
+
+.footer td {
+    background-color: rgb(25, 23, 23);
+    padding: 20px;
+    color: white;
+    font-size: 15px;
+
+}
+
+/* end-footer */
+

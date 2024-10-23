@@ -1,0 +1,15 @@
+.fa-house{
+    color: rgb(117, 168, 117);
+}
+
+.fa-user{
+    font-size: 50%;
+    color:rgb(220, 237, 251);
+    /* border:0.5px solid rgb(53, 148, 232); */
+    padding:2px;
+    border-radius: 25px;
+    background-color: rgb(23, 101, 165);
+}
+
+
+

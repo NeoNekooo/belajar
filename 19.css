@@ -1,0 +1,143 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    /* background-color:  #62605e; */
+}
+
+.container {
+    border: 1px solid gray;
+    width: auto;
+} 
+
+.Nav {
+    background-color: gray ;
+    height: 20px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    text-align: center;
+}
+
+.Nav a {
+    text-decoration: none;
+    color: aliceblue;
+    /* padding-left: 60px; */
+    /* padding-right: 10px; */
+    text-align: center;
+    font-size: 15px;
+    padding: 12px;
+}
+
+.Nav a:hover {
+    background-color: aqua;
+    border: solid 1px aqua;
+    padding: 12px;
+    color: black;
+}
+
+.nav ul,li {
+    display: inline;
+}
+
+.banner {
+    background-color: rgb(91, 99, 99);
+    height: 450px;
+}
+
+.banner img {
+    width: 100%;
+    height: 100%;
+}
+
+.news {
+    width: 50%;
+    background-color: azure;
+    height: 300px;
+}
+
+.info {
+    background-color: rgb(62, 59, 55);
+    height: 30px;
+    padding-top: 10px;
+    color: white;
+}
+
+/* .content {
+    border: 1px solid orange;
+} */
+
+.left-content {
+    width: 70%;
+    background-color: rgb(200, 210, 210);
+    float: left;
+    height: 400px;
+}
+
+.title-left-content {
+    padding: 20px 20px 0px 0px ;
+    border-bottom: 1px solid gray;
+    width: 70%;
+    margin-left: 20px;
+}
+
+
+
+.right-content {
+    width: 30%;
+    background-color: rgb(108, 104, 104);
+    float: right;
+    height: 400px;
+} 
+
+.content h4 {
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 0;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: brown;
+    color: white;
+    margin-bottom: 150px;
+}
+
+.nav-bottom {
+    background-color: rgb(31, 31, 31);
+    height: 700px;
+}
+
+.medsos {
+    width: 35%;
+    float: left;
+    /* border: 1px solid black; */
+    /* height: 200px; */
+}
+
+.navbar-bawah {
+    width: 35%;
+    float: left ;
+}
+
+.map {
+    width: 30%;
+    float: left;
+}
+
+.nav-bottom h3 {
+    border-bottom: 1px solid rgb(255, 255, 255);
+    width: 50%;
+    margin-left: 10px;
+    color: white;
+}
+
+.footer{
+    background-color: rgb(43, 40, 40);
+    /* height: 25px; */
+    color: white;
+    font-size: 11px;
+    padding: 11px;
+}
+
+.medsos ul,li {
+    color: white;
+}
+
